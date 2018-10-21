@@ -17,7 +17,7 @@ osgeo
 ## Usage
 ```
 cd GIS
-python script.py
+python roofSegmentAlgo.py
 ```
 
 ## Result Screenshots
