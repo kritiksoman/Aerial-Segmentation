@@ -21,13 +21,13 @@ python script.py
 ```
 
 ## Result Screenshots
-![image1](https://github.com/kritiksoman/GIS/blob/master/result_screenshot/DEM.png) 
+![image1](https://github.com/kritiksoman/Rooftop-Segmentation/blob/master/results/DEM.png) 
 DEM consisting of rooftops.
 
-![image2](https://github.com/kritiksoman/GIS/blob/master/result_screenshot/Ortho.png) 
+![image2](https://github.com/kritiksoman/Rooftop-Segmentation/blob/master/results/Ortho.png) 
 Ortho-photo of rooftops.
 
-![image2](https://github.com/kritiksoman/GIS/blob/master/result_screenshot/Roof_n_clutter.png)
+![image2](https://github.com/kritiksoman/Rooftop-Segmentation/blob/master/results/Roof_n_clutter.png)
 The detected rooftops along with clutter.
 
 ## Author
