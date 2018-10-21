@@ -16,7 +16,6 @@ osgeo
 ```
 ## Usage
 ```
-cd GIS
 python roofSegmentAlgo.py
 ```
 
