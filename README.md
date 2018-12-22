@@ -22,13 +22,13 @@ python roofSegmentAlgo.py
 ```
 
 ## Result Screenshots
-![image1](https://github.com/kritiksoman/Rooftop-Segmentation/blob/master/results/DEM.png) 
+![image1](https://github.com/kritiksoman/Rooftop-Segmentation/blob/master/results/DEM.png) <br/>
 DEM consisting of rooftops.
 
-![image2](https://github.com/kritiksoman/Rooftop-Segmentation/blob/master/results/Ortho.png) 
+![image2](https://github.com/kritiksoman/Rooftop-Segmentation/blob/master/results/Ortho.png) <br/>
 Ortho-photo of rooftops.
 
-![image2](https://github.com/kritiksoman/Rooftop-Segmentation/blob/master/results/Roof_n_clutter.png)
+![image2](https://github.com/kritiksoman/Rooftop-Segmentation/blob/master/results/Roof_n_clutter.png)<br/>
 The detected rooftops along with clutter.
 
 ## Author
