@@ -24,14 +24,20 @@ python roofSegmentAlgo.py
 ```
 
 ## Result Screenshots
-![image1](https://github.com/kritiksoman/Rooftop-Segmentation/blob/master/results/DEM.png) <br/>
-DEM consisting of rooftops.
+[1] Rooftop segmentation and clutter <br/>
 
-![image2](https://github.com/kritiksoman/Rooftop-Segmentation/blob/master/results/Ortho.png) <br/>
-Ortho-photo of rooftops.
+| DEM consisting of rooftops| Ortho-photo of rooftops| The detected rooftops along with clutter|
+| ------------- |:-------------:| -----:|
+|![image1](https://github.com/kritiksoman/Rooftop-Segmentation/blob/master/results/DEM.png)| ![image2](https://github.com/kritiksoman/Rooftop-Segmentation/blob/master/results/Ortho.png) | ![image3](https://github.com/kritiksoman/Rooftop-Segmentation/blob/master/results/Roof_n_clutter.png) |
 
-![image2](https://github.com/kritiksoman/Rooftop-Segmentation/blob/master/results/Roof_n_clutter.png)<br/>
-The detected rooftops along with clutter.
+[2] DEM Segmentation <br/>
+![image4](https://github.com/kritiksoman/Rooftop-Segmentation/blob/master/results/segmentedDEM.png)
+
+[3] Rooftop segmentation when roof is covered with grass <br/>
+
+| Ortho-photo| Segmented rooftops|
+| ------------- |:-------------:| 
+|![image1](https://github.com/kritiksoman/Rooftop-Segmentation/blob/master/results/g1.png)| ![image2](https://github.com/kritiksoman/Rooftop-Segmentation/blob/master/results/g2.png) |
 
 ## Author
 Kritik Soman
