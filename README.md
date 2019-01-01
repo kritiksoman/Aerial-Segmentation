@@ -24,16 +24,22 @@ python roofSegmentAlgo.py
 ```
 
 ## Result Screenshots
-[1] Rooftop segmentation and clutter <br/>
+[1] Rooftop segmentation<br/>
+
+| Our Dataset | ISPRS Potsdam Dataset|
+| ------------- |:-------------:| 
+|![image1](https://github.com/kritiksoman/Rooftop-Segmentation/blob/master/results/Rooftop_1.png)| ![image2](https://github.com/kritiksoman/Rooftop-Segmentation/blob/master/results/Rooftop_2.png) |
+
+[2] Clutter and Rooftop segmentation<br/>
 
 | DEM consisting of rooftops| Ortho-photo of rooftops| The detected rooftops along with clutter|
 | ------------- |:-------------:| -----:|
 |![image1](https://github.com/kritiksoman/Rooftop-Segmentation/blob/master/results/DEM.png)| ![image2](https://github.com/kritiksoman/Rooftop-Segmentation/blob/master/results/Ortho.png) | ![image3](https://github.com/kritiksoman/Rooftop-Segmentation/blob/master/results/Roof_n_clutter.png) |
 
-[2] DEM Segmentation <br/>
+[3] DEM Segmentation <br/>
 ![image4](https://github.com/kritiksoman/Rooftop-Segmentation/blob/master/results/segmentedDEM.png)
 
-[3] Rooftop segmentation when roof is covered with grass <br/>
+[4] Rooftop segmentation when roof is covered with grass <br/>
 
 | Ortho-photo| Segmented rooftops|
 | ------------- |:-------------:| 
