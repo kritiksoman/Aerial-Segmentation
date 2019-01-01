@@ -9,7 +9,7 @@ This work has been accepted for publication in ACM India Joint International Con
 
 ## Dependencies
 ```
-cv2
+cv2 
 gdal
 scipy
 skimage
@@ -45,5 +45,13 @@ python roofSegmentAlgo.py
 | ------------- |:-------------:| 
 |![image1](https://github.com/kritiksoman/Rooftop-Segmentation/blob/master/results/g1.png)| ![image2](https://github.com/kritiksoman/Rooftop-Segmentation/blob/master/results/g2.png) |
 
-## Author
-Kritik Soman
+## Note
+This code was tested with following version of packages:
+```
+cv2 3.3.0
+gdal 2.1.3                    
+scipy 0.19.1  
+skimage 0.13.0  
+matplotlib 2.1.1   
+numpy 1.13.3 
+```
