@@ -5,7 +5,8 @@
 ## Overview
 This is the python code for detecting rooftops from Aerial RGBD (and IR if available) data using simple image processing techniques. It uses moderate computational resources and has low interface time for segmenting rooftops. Works best on elevation data generated from photogrammetry with around 5cm ground resolution. The two inputs are the RGB (ortho-photo) and the Digital Elevation Model (DEM) geotifs. IR band data may be additionally provided for using NDVI in removing tree canopies more accurately. The shape files for the roofs and clutter in roof are generated as output which can be opened in any GIS software like [QGIS](https://qgis.org/en/site/).
 
-This work has been accepted for publication in ACM India Joint International Conference on Data Science and Management of Data ([CoDS-COMAD 2019](http://cods-comad.in/2019/index.html)).
+## Reference
+Kritik Soman. 2019. Rooftop Detection using Aerial Drone Imagery. In Proceedings of the ACM India Joint International Conference on Data Science and Management of Data ([CoDS-COMAD '19](http://cods-comad.in/2019/index.html)). ACM, New York, NY, USA, 281-284. DOI: https://doi.org/10.1145/3297001.3297041
 
 ## Dependencies
 ```
