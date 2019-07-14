@@ -46,6 +46,9 @@ python roofSegmentAlgo.py
 | ------------- |:-------------:| 
 |![image1](https://github.com/kritiksoman/Rooftop-Segmentation/blob/master/results/g1.png)| ![image2](https://github.com/kritiksoman/Rooftop-Segmentation/blob/master/results/g2.png) |
 
+## Poster 
+[Project Poster](https://github.com/kritiksoman/Aerial-Segmentation/blob/master/Poster.pdf "Project Poster PDF")
+
 ## Note
 This code was tested with following version of packages:
 ```
