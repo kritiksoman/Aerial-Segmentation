@@ -19,10 +19,11 @@ numpy
 multiprocessing
 osgeo
 ```
-## Usage
-```
-python roofSegmentAlgo.py
-```
+## How to run on Colab?
+[1] Download the repository zip and upload on Colab.<br/>
+[2] Unzip using the command```! unzip Rooftop-Segmentation.zip```<br/>
+[3] Open demo.ipynb, change directory using ```% cd Rooftop-Segmentation``` and run cells.
+
 
 ## Result Screenshots
 [1] Rooftop segmentation<br/>
