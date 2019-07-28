@@ -70,7 +70,7 @@ def findDEMFeature(original_dem,index):
 	maskLabel = maskLabel[order]
 	maskStd = maskStd[order]
 
-	for regionIndex in range(0,int(len(areaList)/10)):
+	for regionIndex in range(0,len(areaList)):
 	    minr, minc, maxr, maxc = maskBB[regionIndex]
 	    extraMargin = 20
 	    if minr-extraMargin<0:
