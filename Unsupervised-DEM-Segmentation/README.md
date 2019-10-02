@@ -6,7 +6,8 @@ IPython Notebook showing simple segmentation of aerial Digital Elevation Model (
 
 
 ## Overview
-The notebook shows how DEM can be segmented by using basic image processing techniques. It uses the method described in https://doi.org/10.1145/3297001.3297041
+The notebook shows how DEM can be segmented by using basic image processing techniques. It uses the method described in https://doi.org/10.1145/3297001.3297041 .
+This method works because rooftop edges are mostly step edges.
 
 
 ## Dependencies
