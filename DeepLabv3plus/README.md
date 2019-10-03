@@ -6,9 +6,12 @@
 This is the MATLAB code for segmenting Aerial IR-R-G data using the DeepLabv3+ module in MATLAB. This project is under development.
 
 
-## Example Result Screenshots
-[1] Segmentation on the ISPRS Potsdam Dataset<br/>
+## Result 
+[1] Example Segmentation Result on the ISPRS Potsdam Dataset<br/>
 ![image1](https://github.com/kritiksoman/Aerial-Segmentation/blob/master/DeepLabv3plus/results/ex_result.png)
+Predicted(left) and Ground Truth (right) <br/>
+[2] Current Sample Test Accuracies<br/>
+![image2](https://github.com/kritiksoman/Aerial-Segmentation/blob/master/DeepLabv3plus/results/acc.png)
 
 
 
