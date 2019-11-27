@@ -9,7 +9,7 @@ Why this works?<br/>
 [2] Scale variation: Ground resolution is already known. (5cm/px in this example)<br/>
 [3] No deformation in shape of object segmented. (Building images don't deform like the images of a cat)<br/>
 [4] Minimal Occulusion: Only trees cover certain rooftops. (Since we are interested in solar panel deployment, this doesn't matter)<br/>
-
+[5] Illumination variation: We use DEM for segmentation and NIR for detecting vegetation. Other than that, drone data is generally recorded in ideal environmental conditions.<br/>  
 
 ## Reference
 Kritik Soman. 2019. Rooftop Detection using Aerial Drone Imagery. In Proceedings of the ACM India Joint International Conference on Data Science and Management of Data ([CoDS-COMAD '19](http://cods-comad.in/2019/index.html)). ACM, New York, NY, USA, 281-284.  https://dlnext.acm.org/doi/abs/10.1145/3297001.3297041
