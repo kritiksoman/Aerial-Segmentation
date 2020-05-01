@@ -66,3 +66,13 @@ skimage 0.13.0
 matplotlib 2.1.1   
 numpy 1.13.3 
 ```
+# Citation
+Please cite using the following bibtex entry:
+```
+@inproceedings{soman2019rooftop,
+  title={Rooftop Detection using Aerial Drone Imagery},
+  author={Soman, Kritik},
+  booktitle={Proceedings of the ACM India Joint International Conference on Data Science and Management of Data},
+  pages={281--284},
+  year={2019}
+}
