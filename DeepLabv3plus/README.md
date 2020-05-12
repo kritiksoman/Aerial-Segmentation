@@ -3,13 +3,18 @@
 [![MIT](https://img.shields.io/badge/license-MIT-brightgreen.svg)](https://github.com/kritiksoman/Rooftop-Segmentation/blob/master/LICENSE)
 
 ## Overview
-This is the MATLAB code for segmenting Aerial IR-R-G data using the DeepLabv3+ module in MATLAB. This project is under development.
+This is the MATLAB code for segmenting Aerial RGB data using the DeepLabv3+ module in MATLAB. This project is under development.
 
 
 ## Result 
 [1] Example Segmentation Result on the ISPRS Potsdam Dataset<br/>
-![image1](https://github.com/kritiksoman/Aerial-Segmentation/blob/master/DeepLabv3plus/results/ex_result.png)
-Predicted(left) and Ground Truth (right) <br/>
+RGB Image:  <br/>
+![image1](https://github.com/kritiksoman/Aerial-Segmentation/blob/master/DeepLabv3plus/results/5_11_img.png) <br/>
+Ground Truth:  <br/>
+![image1](https://github.com/kritiksoman/Aerial-Segmentation/blob/master/DeepLabv3plus/results/5_11_gt.png) <br/>
+Predicted: <br/>
+![image1](https://github.com/kritiksoman/Aerial-Segmentation/blob/master/DeepLabv3plus/results/5_11_pred.png) <br/>
+
 [2] Current Sample Test Accuracies<br/>
 ![image2](https://github.com/kritiksoman/Aerial-Segmentation/blob/master/DeepLabv3plus/results/acc.png)
 
