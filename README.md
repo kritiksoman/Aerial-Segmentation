@@ -12,7 +12,7 @@ Why this works?<br/>
 [5] Illumination variation: We use DEM for segmentation and NIR for detecting vegetation. Other than that, drone data is generally recorded in ideal environmental conditions.<br/>  
 
 ## Reference
-Kritik Soman. 2019. Rooftop Detection using Aerial Drone Imagery. In Proceedings of the ACM India Joint International Conference on Data Science and Management of Data ([CoDS-COMAD '19](http://cods-comad.in/2019/index.html)). ACM, New York, NY, USA, 281-284.  https://dlnext.acm.org/doi/abs/10.1145/3297001.3297041
+[[CoDS-COMAD '19](http://cods-comad.in/2019/index.html)]: Soman, Kritik. "[Rooftop Detection using Aerial Drone Imagery](https://dlnext.acm.org/doi/abs/10.1145/3297001.3297041)." Proceedings of the ACM India Joint International Conference on Data Science and Management of Data. 2019.
 
 ## Dependencies
 ```
