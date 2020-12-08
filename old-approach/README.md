@@ -36,25 +36,25 @@ osgeo
 
 | Our Dataset | ISPRS Potsdam Dataset|
 | ------------- |:-------------:| 
-|![image1](https://github.com/kritiksoman/Rooftop-Segmentation/blob/master/results/Rooftop_1.png)| ![image2](https://github.com/kritiksoman/Rooftop-Segmentation/blob/master/results/Rooftop_2.png) |
+|![image1](https://github.com/kritiksoman/Rooftop-Segmentation/blob/master/old-approach/results/Rooftop_1.png)| ![image2](https://github.com/kritiksoman/Rooftop-Segmentation/blob/master/old-approach/results/Rooftop_2.png) |
 
 [2] Clutter and Rooftop segmentation<br/>
 
 | DEM consisting of rooftops| Ortho-photo of rooftops| The detected rooftops along with clutter|
 | ------------- |:-------------:| -----:|
-|![image1](https://github.com/kritiksoman/Rooftop-Segmentation/blob/master/results/DEM.png)| ![image2](https://github.com/kritiksoman/Rooftop-Segmentation/blob/master/results/Ortho.png) | ![image3](https://github.com/kritiksoman/Rooftop-Segmentation/blob/master/results/Roof_n_clutter.png) |
+|![image1](https://github.com/kritiksoman/Rooftop-Segmentation/blob/master/old-approach/results/DEM.png)| ![image2](https://github.com/kritiksoman/Rooftop-Segmentation/blob/master/old-approach/results/Ortho.png) | ![image3](https://github.com/kritiksoman/Rooftop-Segmentation/blob/master/old-approach/results/Roof_n_clutter.png) |
 
 [3] DEM Segmentation <br/>
-![image4](https://github.com/kritiksoman/Rooftop-Segmentation/blob/master/results/segmentedDEM.png)
+![image4](https://github.com/kritiksoman/Rooftop-Segmentation/blob/master/old-approach/results/segmentedDEM.png)
 
 [4] Rooftop segmentation when roof is covered with grass <br/>
 
 | Ortho-photo| Segmented rooftops|
 | ------------- |:-------------:| 
-|![image1](https://github.com/kritiksoman/Rooftop-Segmentation/blob/master/results/g1.png)| ![image2](https://github.com/kritiksoman/Rooftop-Segmentation/blob/master/results/g2.png) |
+|![image1](https://github.com/kritiksoman/Rooftop-Segmentation/blob/master/old-approach/results/g1.png)| ![image2](https://github.com/kritiksoman/Rooftop-Segmentation/blob/master/old-approach/results/g2.png) |
 
 ## Poster 
-[Project Poster](https://github.com/kritiksoman/Aerial-Segmentation/blob/master/Poster.pdf "Project Poster PDF")
+[Project Poster](https://github.com/kritiksoman/Aerial-Segmentation/blob/master/old-approach/Poster.pdf "Project Poster PDF")
 
 ## Note
 This code was tested with following version of packages:
